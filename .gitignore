@@ -1,0 +1,82 @@
+# === Unity ===
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+
+# === Unity Generated ===
+sysinfo.txt
+*.booproj
+*.pidb
+*.suo
+*.user
+*.userprefs
+*.unityproj
+*.dll.meta
+*.exe.meta
+*.apk.meta
+*.unitypackage
+
+# === Visual Studio / JetBrains Rider ===
+.vs/
+*.csproj
+*.sln
+*.sln.DotSettings
+*.csproj.user
+*.tmp
+*.pid
+*.svd
+
+# JetBrains Rider
+.idea/
+*.DotSettings.user
+
+# === OS Stuff ===
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Linux
+*~
+
+# === Builds ===
+*.apk
+*.aab
+*.xcodeproj
+*.xcworkspace
+
+# === Crash and Report Files ===
+*.stacktrace
+*.log
+
+# === Unity Asset Store ===
+*.unitypackage
+
+# === TextMeshPro ===
+[Tt]extMesh Pro/Resources/*.asset.meta
+
+# === Addressables ===
+# (Opcional, depende si usan Addressables)
+Assets/AddressableAssetsData/*/*.bin
+Assets/AddressableAssetsData/*/*.bin.meta
+
+# === Other ===
+exportedObj/
+*.orig
+
+# === Auto-Generated Backup Files ===
+*.bak
+*.old
+*.tmp
+*.copy
